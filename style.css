@@ -43,8 +43,8 @@ body{
     transition: all 0.3s;
 }
 .btn:hover{
-    background: #222;
-    color: black;
+    background: blueviolet;
+    color:black;
 }
 #next-btn{
     background: #001e4d;
